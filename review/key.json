@@ -1,0 +1,50 @@
+{
+  "SYN-000067": {
+    "A": "v2_structured",
+    "B": "v1_baseline"
+  },
+  "SYN-000267": {
+    "A": "v1_baseline",
+    "B": "v2_structured"
+  },
+  "SYN-000333": {
+    "A": "v2_structured",
+    "B": "v1_baseline"
+  },
+  "SYN-000381": {
+    "A": "v1_baseline",
+    "B": "v2_structured"
+  },
+  "SYN-000397": {
+    "A": "v1_baseline",
+    "B": "v2_structured"
+  },
+  "SYN-000451": {
+    "A": "v2_structured",
+    "B": "v1_baseline"
+  },
+  "SYN-000476": {
+    "A": "v1_baseline",
+    "B": "v2_structured"
+  },
+  "SYN-001203": {
+    "A": "v1_baseline",
+    "B": "v2_structured"
+  },
+  "SYN-001212": {
+    "A": "v2_structured",
+    "B": "v1_baseline"
+  },
+  "SYN-001294": {
+    "A": "v1_baseline",
+    "B": "v2_structured"
+  },
+  "SYN-001457": {
+    "A": "v1_baseline",
+    "B": "v2_structured"
+  },
+  "SYN-001969": {
+    "A": "v1_baseline",
+    "B": "v2_structured"
+  }
+}
